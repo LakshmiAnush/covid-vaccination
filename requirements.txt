@@ -1,0 +1,8 @@
+print_function
+pandas
+matplotlib
+plotly
+seaborn
+squarify
+folium
+voila
