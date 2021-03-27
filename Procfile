@@ -1,1 +1,1 @@
-web: voila --port=$PORT  --no-browser phase2.ipynb
+web: voila --port=$PORT ---enable_nbextensions=True --no-browser phase2.ipynb
