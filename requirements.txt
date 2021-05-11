@@ -5,4 +5,5 @@ plotly
 seaborn
 squarify
 folium
+voila-material
 voila
