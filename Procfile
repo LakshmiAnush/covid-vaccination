@@ -1,1 +1,1 @@
-web: voila --port=$PORT --enable_nbextensions=True --no-browser covid-dashboard.ipynb
+web: voila --port=$PORT --no-browser --template=material --show_tracebacks=True --enable_nbextensions=True covid-dashboard.ipynb
