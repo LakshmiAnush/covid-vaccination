@@ -1,1 +1,1 @@
-# covid-visualization
+# covid-vaccination-visualization
